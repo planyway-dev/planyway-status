@@ -4,7 +4,7 @@
     "url": "https://planyway.com",
     "icon": "https://icons.duckduckgo.com/ip3/planyway.com.ico",
     "slug": "planyway",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 374,
     "timeDay": 453,
     "timeWeek": 387,
-    "timeMonth": 374,
+    "timeMonth": 375,
     "timeYear": 374,
     "dailyMinutesDown": {}
   }
