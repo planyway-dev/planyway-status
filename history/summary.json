@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/planyway.com.ico",
     "slug": "planyway",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 377,
-    "timeDay": 484,
-    "timeWeek": 403,
+    "uptimeYear": "99.94%",
+    "time": 379,
+    "timeDay": 438,
+    "timeWeek": 402,
     "timeMonth": 382,
-    "timeYear": 377,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2025-12-07": 31
     }
